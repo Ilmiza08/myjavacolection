@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class main here.
+ * class main here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author ilmiza08
+ * @version 1.1
  */
 public class main
 {
