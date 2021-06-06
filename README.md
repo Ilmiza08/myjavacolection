@@ -1,1 +1,3 @@
-[![N]Solid](https://github.com/Ilmiza08/ILMIZA/blob/master/sc1.png)(https://github.com/Ilmiza08/ILMIZA/blob/master/sc1.png)
+[![N]Solid](https://github.com/Ilmiza08/myjavacolection/blob/master/Screenshot%20(13).png)(https://github.com/Ilmiza08/myjavacolection/blob/master/Screenshot%20(13).png)
+[![N]Solid](https://github.com/Ilmiza08/myjavacolection/blob/master/Screenshot%20(14).png)(https://github.com/Ilmiza08/myjavacolection/blob/master/Screenshot%20(14).png)
+[![N]Solid](https://github.com/Ilmiza08/myjavacolection/blob/master/Screenshot%20(15).png)(https://github.com/Ilmiza08/myjavacolection/blob/master/Screenshot%20(15).png)
