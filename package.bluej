@@ -2,10 +2,10 @@
 dependency1.from=Main
 dependency1.to=Mahasiswa
 dependency1.type=UsesDependency
-editor.fx.0.height=739
-editor.fx.0.width=816
-editor.fx.0.x=384
-editor.fx.0.y=59
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
 objectbench.height=94
 objectbench.width=1342
 package.divider.horizontal=0.6
